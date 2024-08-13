@@ -1,0 +1,12 @@
+{
+  // "markdown.preview.doubleClickToSwitchToEditor": false,
+  "explorer.autoRevealExclude": {
+    // "**/.tutorial": true
+  },
+  "workbench.editorAssociations": {
+    // "**/.tutorial/**/*.md": "vscode.markdown.preview.editor"
+  },
+  "files.readonlyInclude": {
+    // "**/.tutorial/**/*.md": true
+  }
+}
